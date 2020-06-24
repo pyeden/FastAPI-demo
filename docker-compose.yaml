@@ -1,0 +1,9 @@
+version: '2'
+services:
+  ikddoscnfhk:
+    build: .
+    container_name: "IK_CDN_USERS"
+    ports:
+      - "22003:2003"
+    working_dir: "/var/www/ik_cdn_users"
+    restart: always
