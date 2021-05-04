@@ -86,7 +86,6 @@ aerich heads
 ├── config.py                                                    # 配置文件，包含生产，测试，开发三套配置
 ├── create_table.sql                                             # 建表sql
 ├── deploy.sh                                                    # docker镜像构建
-├── docker-compose.yaml                                          # docker容器编排管理
 ├── Dockerfile                                                   # 构建镜像配置文件
 ├── ik_cnd_user_app_logs.log                                     # app日志
 ├── log.log                                                      # 日志
