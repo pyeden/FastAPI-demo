@@ -50,5 +50,5 @@ typer==0.2.1
 typing-extensions==3.7.4.2
 unicorn==1.0.1
 urllib3==1.25.9
-uvicorn==0.11.5
+uvicorn==0.11.7
 websockets==8.1
